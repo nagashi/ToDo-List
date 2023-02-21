@@ -7,8 +7,8 @@
 1. You can use [cargo generate](https://github.com/ashleygwilliams/cargo-generate) to use this template.
 
     ```bash
-    $ cargo generate --git https://github.com/seed-rs/seed-quickstart.git --name my-project
-    $ cd my-project
+    $ cargo generate --git https://github.com/seed-rs/seed-quickstart.git --name <project name>
+    $ cd project name
     ```
 
 1. Alternatively, simply click on the green button **Use this template** on the GitHub [profile](https://github.com/seed-rs/seed-quickstart) of this quickstart.
@@ -16,7 +16,7 @@
 1. Make sure Git doesn't automatically convert your newlines to CRLF because linters don't like it.
     - Run `$ git config --global core.autocrlf` in your terminal and it should return `input` or `false`. See [Git docs](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration) for more info.
 
-1. Clone your new repository to your local machine. I use [GitKraken](https://www.gitkraken.com/), but you are probably a better developer than me - use your favorite terminal.
+1. Clone your new repository to your local machine. I use [Warp](https://www.warp.dev/), but you are probably a better developer than me - use your favorite terminal.
 
 ## 2. Install / check required tools
 
